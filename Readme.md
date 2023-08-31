@@ -1,6 +1,6 @@
 <h1>Código Fuente del Colab</h1></summary>
 
-[**Abrir en Colab**](https://colab.research.google.com/drive/1C7h0_5LnZ-DHtlgjXuhcg2fAxX7M7J2L?usp=sharing))
+https://colab.research.google.com/drive/1C7h0_5LnZ-DHtlgjXuhcg2fAxX7M7J2L?usp=sharing
 
 
 <h1>Configuración del Servidor Local y ngrok:</h1>
