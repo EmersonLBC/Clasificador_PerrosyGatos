@@ -1,8 +1,8 @@
-Configuración del Servidor Local y ngrok
+Configuración del Servidor Local y ngrok:
 
 Para cargar el proyecto que utiliza un modelo de Tensorflow.js, es necesario acceder a través de http/https. Puedes usar cualquier servidor para esto, y aquí te proporcionamos una forma de hacerlo:
 
-1. **Configuración del Servidor Local**:
+1. **Configuración en computadora(Servidor Local)**:
 
     Descarga Python en tu computadora si aún no lo tienes instalado.
 
@@ -14,7 +14,7 @@ Para cargar el proyecto que utiliza un modelo de Tensorflow.js, es necesario acc
       ```
     - Abre tu navegador web y ve a http://localhost:8000 para acceder al proyecto.
 
-2. **Utilización de ngrok**:
+2. **Utilización en celular con ngrok**:
 
     Si deseas abrir el proyecto en tu dispositivo móvil y usar la cámara, necesitarás una conexión HTTPS. Puedes lograrlo usando ngrok:
 
