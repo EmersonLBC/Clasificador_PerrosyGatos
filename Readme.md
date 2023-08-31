@@ -1,4 +1,4 @@
-<h1>Configuración del Servidor Local y ngrok:<h1>
+<h1>Configuración del Servidor Local y ngrok:</h1>
 
 Para cargar el proyecto que utiliza un modelo de Tensorflow.js, es necesario acceder a través de http/https. Puedes usar cualquier servidor para esto, y aquí te proporcionamos una forma de hacerlo:
 
