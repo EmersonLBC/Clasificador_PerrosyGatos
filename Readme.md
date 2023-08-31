@@ -1,3 +1,7 @@
+<h1>Código Fuente del Colab</h1>
+
+https://colab.research.google.com/drive/1C7h0_5LnZ-DHtlgjXuhcg2fAxX7M7J2L?usp=sharing
+
 <h1>Configuración del Servidor Local y ngrok:</h1>
 
 Para cargar el proyecto que utiliza un modelo de Tensorflow.js, es necesario acceder a través de http/https. Puedes usar cualquier servidor para esto, y aquí te proporcionamos una forma de hacerlo:
